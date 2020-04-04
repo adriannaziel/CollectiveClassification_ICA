@@ -1,5 +1,6 @@
 # CollectiveClassification_ICA
 Iterative Classification Algorithm for Collective Classification task 
+
 data: https://doi.org/10.7910/DVN/6Z3CGX
 
 Problem : 
